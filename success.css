@@ -1,0 +1,23 @@
+.myFooter{
+	padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+    position:fixed;
+	width:100%;
+}
+.myPanel{
+	margin-left:25%;
+	margin-right:25%;
+}
+.navContainer{
+	height:15px;
+	
+}
+@media only screen and (max-width: 767px) {
+  .navContainer {
+    height:auto;
+	
+  }
+}

@@ -1,0 +1,25 @@
+
+.thumbs{
+	width:250px;
+}
+Footer{
+	padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+.navContainer{
+	height:15px;
+	
+}
+#brandName{
+	color:white;
+	text-decoration:none;
+}
+@media only screen and (max-width: 767px) {
+  .navContainer {
+    height:auto;
+	
+  }
+}
